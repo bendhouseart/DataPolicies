@@ -2,6 +2,8 @@
 
 This document summarizes some of the available licenses for [copywritable works](#creative-commons-license), licenses for [source code](#code-licenses), as well as licenses created specifically to deal with the [publishing and sharing of data](#data-licenses). 
 
+Note this does not apply to subjects related brain imaging data originating from the European Union. Group level derived data (agregated values, images, etc) can however be licensed that way. For subjects related brain imaging data originating from the European Union, datasets must be shared using a Data Use agreement (e.g. https://open-brain-consent.readthedocs.io/en/stable/gdpr/data_user_agreement.html) and, if shared outside the EU, users must additionally sign the [EU standard contractual clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en).
+
 ## Creative Commons Licenses
 
 In it's most condensed form Creative Common Licenses can be seen at this [wikipedia page](https://en.wikipedia.org/wiki/Creative_Commons_license#Types_of_license)
